@@ -26,7 +26,7 @@ The Face Recognition Attendance System is an application that utilizes computer 
 - NumPy
 - Pandas
 - Scikit-learn
-- Other dependencies (listed in requirements.txt)
+- Yagmail
 
 ## Installation
 
@@ -34,11 +34,7 @@ The Face Recognition Attendance System is an application that utilizes computer 
    ```bash
    git clone https://github.com/mhdshabeer/Facial_Recognition_Based_Attendance_System.git
 
-2. Install the required packages:
-   ```bash
-   pip install -r requirements.txt
-
-3. Run the main.py file
+2. Run the main.py file
 
 ## File Structure:
 ```bash
